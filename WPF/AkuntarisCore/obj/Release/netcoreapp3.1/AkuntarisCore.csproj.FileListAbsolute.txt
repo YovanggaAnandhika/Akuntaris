@@ -1,0 +1,6 @@
+I:\PEKERJAAN\Product\Akuntaris\Desktop\Akuntaris\AkuntarisCore\bin\Release\netcoreapp3.1\AkuntarisCore.deps.json
+I:\PEKERJAAN\Product\Akuntaris\Desktop\Akuntaris\AkuntarisCore\bin\Release\netcoreapp3.1\AkuntarisCore.dll
+I:\PEKERJAAN\Product\Akuntaris\Desktop\Akuntaris\AkuntarisCore\obj\Release\netcoreapp3.1\AkuntarisCore.AssemblyInfoInputs.cache
+I:\PEKERJAAN\Product\Akuntaris\Desktop\Akuntaris\AkuntarisCore\obj\Release\netcoreapp3.1\AkuntarisCore.AssemblyInfo.cs
+I:\PEKERJAAN\Product\Akuntaris\Desktop\Akuntaris\AkuntarisCore\obj\Release\netcoreapp3.1\AkuntarisCore.csproj.CoreCompileInputs.cache
+I:\PEKERJAAN\Product\Akuntaris\Desktop\Akuntaris\AkuntarisCore\obj\Release\netcoreapp3.1\AkuntarisCore.dll

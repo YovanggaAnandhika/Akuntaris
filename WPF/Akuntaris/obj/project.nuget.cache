@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HggjWRIV0S0noUT11vmWU0OpdKModF7ddL36wOH3LBYDmxWMN5+ZYvyhk5VTaw9vC/gSuGv0XmERUXTd2DDHNg==",
+  "success": true,
+  "projectFilePath": "I:\\PEKERJAAN\\Product\\Akuntaris\\WPF\\Akuntaris\\Akuntaris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.13\\microsoft.netcore.app.runtime.win-x64.3.1.13.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.13\\microsoft.aspnetcore.app.runtime.win-x64.3.1.13.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.13\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
